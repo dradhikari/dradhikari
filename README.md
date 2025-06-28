@@ -10,7 +10,7 @@
   <br/>
   <a href="mailto:d.adhikari2049@gmail.com" target="blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="40" />
-    &nbsp;p.ram@gmail.com
+    &nbsp;d.adhikari2049@gmail.com
   </a>
 </p>
 
