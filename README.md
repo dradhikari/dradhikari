@@ -12,11 +12,11 @@ Hey there! 👋 I'm Dilip Adhikari, a graduate student at the University of Nort
 
 ---
 ##  Skills & Tools
--Core Python: R, SAS, SQL
+- Core: Python, R, SAS, SQL
 
--ML: Predictive Modeling, NLP, Computer Vision, Survival Analysis
+- ML: Predictive Modeling, NLP, Computer Vision, Survival Analysis
 
--Visualization: Excel, Tableau, Power BI
+- Visualization: Excel, Tableau, Power BI
 
 
 ---
