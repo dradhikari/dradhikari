@@ -12,7 +12,7 @@ Hey there! 👋 I'm Dilip Adhikari, a graduate student at the University of Nort
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
 ### Languages
 - Python
@@ -24,20 +24,6 @@ Hey there! 👋 I'm Dilip Adhikari, a graduate student at the University of Nort
 - Excel
 - PowerBI
 - Tableau
-
----
-
-
-## 📚 My Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dradhikari&layout=compact)
-
-
----
-
-## 🎯 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.herokuapp.com/?user=dradhikari&theme=dark)](https://git.io/streak-stats)
 
 ---
 
@@ -57,13 +43,9 @@ Feel free to check them out and provide any feedback or suggestions!
 📧 Email: d.adhikari2049@gmail.com  
 🔗 LinkedIn:https://www.linkedin.com/in/dilip-adhikari/
 
----
-
-Let's connect, collaborate, and learn together! 🌟
 
 ---
-
-*Inspired by data, driven by insights.* 🚀
+*Inspired by data, driven by insights.* 
 
 
 
