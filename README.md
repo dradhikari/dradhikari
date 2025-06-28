@@ -1,4 +1,4 @@
-Hi there! 👋 I'm Dilip Adhikari, a graduate student at the University of North Carolina at Greensboro, with a strong passion for Data Analysis, Big Data, Machine Learning, and Natural Language Processing (NLP).. Welcome to my GitHub profile! 
+Hi there! 👋 I'm Dilip Adhikari, a graduate student at the University of North Carolina at Greensboro, with a strong passion for Data Analysis, Big Data, Machine Learning, and Natural Language Processing (NLP). Welcome to my GitHub profile! 
 
 ---
 
@@ -11,6 +11,7 @@ Hi there! 👋 I'm Dilip Adhikari, a graduate student at the University of North
 
 ---
 ##  Skills & Tools
+
 - Core: Python, R, SAS, SQL
 
 - ML: Predictive Modeling, NLP, Computer Vision, Survival Analysis
@@ -20,7 +21,7 @@ Hi there! 👋 I'm Dilip Adhikari, a graduate student at the University of North
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 📧 Email: d.adhikari2049@gmail.com  
 🔗 LinkedIn:https://www.linkedin.com/in/dilip-adhikari/
