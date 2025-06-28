@@ -66,7 +66,7 @@ Feel free to check them out and provide any feedback or suggestions!
 ## 📫 Contact Me
 
 📧 Email: d.adhikari2049@gmail.com  
-🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/dilipadhikari/)  
+🔗 LinkedIn:https://www.linkedin.com/in/dilip-adhikari/
 
 ---
 
