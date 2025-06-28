@@ -1,59 +1,82 @@
-<h1 align="center">Hi 👋, I'm Dilip Adhikari</h1>
-<h3 align="center">An Enthusiastic Data Analyst from Nepal, currently in the USA.</h3>
+# Dilip Adhikari
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/p.ramlinkden" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
-    &nbsp;LinkedIn
-  </a>
-  <br/>
-  <a href="mailto:p.ram@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="40" />
-    &nbsp;p.ram@gmail.com
-  </a>
-  <br/>
-  <a href="https://your-portfolio.com" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" alt="Portfolio" height="30" width="40"/>
-    &nbsp;Portfolio
-  </a>
-</p>
+Hey there! 👋 I'm Dilip Adhikari, a graduate student at the University of North Carolina, Greensboro, with a passion for data analysis and visualization. Welcome to my GitHub profile! 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>
-  </a>
-  <a href="https://www.sas.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/48/sas.png" alt="sas" width="40" height="40"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
+---
+
+## 🚀 About Me
+
+🎓 Graduate Student at UNC Greensboro  
+💼 Data Enthusiast  
+🌱 Exploring new technologies and tools  
+✨ Interested in aviation data analysis and HR analytics  
+
+---
+
+## 🛠️ Skills & Tools
+
+### Languages
+- Python
+- R
+- SAS
+
+### Tools
+
+- Excel
+- PowerBI
+- Tableau
+
+---
+
+## 📊 My GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dradhikari&show_icons=true&theme=radical)
+
+---
+
+## 📚 My Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dradhikari&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dradhikari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🎯 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.herokuapp.com/?user=dradhikari&theme=dark)](https://git.io/streak-stats)
+
+---
+
+## 📂 My Projects
+
+Here are some of my highlighted projects:
+
+📊 [Airlines Data Analysis](https://github.com/dradhikari/Airlines_Data_Analysis)  
+📈 [HR Analytics Dashboard](https://github.com/dradhikari/HR_Analytics_Dashboard)  
+
+Feel free to check them out and provide any feedback or suggestions!
+
+---
+
+## 📫 Contact Me
+
+📧 Email: d.adhikari2049@gmail.com  
+🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/dilipadhikari/)  
+
+---
+
+Let's connect, collaborate, and learn together! 🌟
+
+---
+
+*Inspired by data, driven by insights.* 🚀
+
+
+
 
 
