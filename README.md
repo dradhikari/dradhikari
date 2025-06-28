@@ -27,17 +27,6 @@ Hey there! 👋 I'm Dilip Adhikari, a graduate student at the University of Nort
 
 ---
 
-## 📂 My Projects
-
-Here are some of my highlighted projects:
-
-📊 [Airlines Data Analysis](https://github.com/dradhikari/Airlines_Data_Analysis)  
-📈 [HR Analytics Dashboard](https://github.com/dradhikari/HR_Analytics_Dashboard)  
-
-Feel free to check them out and provide any feedback or suggestions!
-
----
-
 ## 📫 Contact Me
 
 📧 Email: d.adhikari2049@gmail.com  
