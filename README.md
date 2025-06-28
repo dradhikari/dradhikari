@@ -11,19 +11,11 @@ Hey there! 👋 I'm Dilip Adhikari, a graduate student at the University of Nort
 ✨ Interested in Big Data and Machine Learning 
 
 ---
-
 ##  Skills & Tools
+-Core Python: R, SAS, SQL
+-ML: Predictive Modeling, NLP, Computer Vision, Survival Analysis
+-Visualization: Excel, Tableau, Power BI
 
-### Languages
-- Python
-- R
-- SAS
-
-### Visualization
-
-- Excel
-- PowerBI
-- Tableau
 
 ---
 
