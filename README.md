@@ -1,5 +1,4 @@
-
-Hey there! 👋 I'm Dilip Adhikari, a graduate student at the University of North Carolina, Greensboro, with a passion for data analysis and visualization. Welcome to my GitHub profile! 
+Hi there! 👋 I'm Dilip Adhikari, a graduate student at the University of North Carolina at Greensboro, with a strong passion for Data Analysis, Big Data, Machine Learning, and Natural Language Processing (NLP).. Welcome to my GitHub profile! 
 
 ---
 
