@@ -1,4 +1,4 @@
-Hi there! I'm  a graduate student at the University of North Carolina at Greensboro, with a strong passion for Mathematics, Statistics, Data Analysis, Data Science, Big Data & Machine Learning, Deep Learning, and Natural Language Processing (NLP).
+*Hi there! I'm  a graduate student at the University of North Carolina at Greensboro, with a strong passion for Mathematics, Statistics, Data Analysis, Data Science, Big Data & Machine Learning, Deep Learning, and Natural Language Processing (NLP).*
 ---
 
 ## Contact 
