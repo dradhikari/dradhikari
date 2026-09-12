@@ -1,4 +1,7 @@
-*Hi there! I'm  a graduate student at the University of North Carolina at Greensboro, with a strong passion for Mathematics, Statistics, Data Analysis, Data Science, Big Data & Machine Learning, Deep Learning, and Natural Language Processing (NLP).*
+*
+Data & Analytics professional with 5+ years of experience turning complex data into actionable insights across finance, logistics, and academia. Skilled in Python, SQL, Power BI, R, data engineering, analytics, and machine learning. Experienced in building data pipelines, automating reporting workflows, and developing interactive dashboards.
+ 
+Currently exploring NLP, Large Language Models (LLMs), Docker, and modern data platforms. Passionate about learning, building real-world projects, and solving data-driven problems.
 ---
 
 ## Contact 
