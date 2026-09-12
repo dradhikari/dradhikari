@@ -1,12 +1,31 @@
-Data & Analytics professional with 5+ years of experience turning complex data into actionable insights across finance, logistics, and academia. Skilled in Python, SQL, Power BI, R, data engineering, analytics, and machine learning. Experienced in building data pipelines, automating reporting workflows, and developing interactive dashboards.
- 
-Currently exploring NLP, Large Language Models (LLMs), Docker, and modern data platforms. Passionate about learning, building real-world projects, and solving data-driven problems.
+👋 Hi there!
+
+### Data & Analytics Professional | 5+ Years Turning Data into Actionable Insights
+
+I specialize in building end-to-end data solutions across finance, education, and healthcare - from data pipelines and workflow automation to interactive dashboards that support data-driven decisions.
+
+### Core Skills
+
+* **Languages & Tools:** Python, SQL, R
+* **Visualization:** Power BI, Tableau
+* **Focus Areas:** Data Engineering, Analytics, Machine Learning, Workflow Automation
+
+### Currently Working With
+
+* Natural Language Processing (NLP) & Large Language Models (LLMs)
+* MLOps with MLflow & Docker
+* Modern data platforms and architectures
+
+I'm passionate about solving real-world problems with data and building solutions that work — not just things that look good in a slide deck.
+
+
+
 ---
 
-## Contact 
+## Let's connect:
 
-📧 Email: d.adhikari2049@gmail.com  
-🔗 LinkedIn:https://www.linkedin.com/in/dilip-adhikari/
+📧 Email :  d.adhikari2049@gmail.com  
+🔗 LinkedIn : https://www.linkedin.com/in/dilip-adhikari/
 
 ---
 *Inspired by data, driven by insights.* 
